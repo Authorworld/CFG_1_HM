@@ -60,9 +60,11 @@ run_shell()
 
 Пример работы консоли
 
-<img width="741" alt="Снимок экрана 2024-12-05 в 18 55 00" src="https://github.com/user-attachments/assets/3bcb598c-d604-4697-99a7-c3176a34abfb">
+<img width="594" alt="Снимок экрана 2024-12-11 в 19 45 31" src="https://github.com/user-attachments/assets/67eebe42-1bd6-4dd9-b72f-5d36a94abf48" />
+
 
 Тесты
 
-<img width="436" alt="Снимок экрана 2024-12-05 в 18 56 09" src="https://github.com/user-attachments/assets/838f5f81-0e65-4333-9150-95e08388d615">
+<img width="465" alt="Снимок экрана 2024-12-11 в 19 46 42" src="https://github.com/user-attachments/assets/fae6a154-e374-441b-bf79-1d07b8c34f30" />
+
 
